@@ -1,4 +1,4 @@
-// https://adventofcode.com/2021/day/5
+// https://adventofcode.com/2021/day/6
 
 // Removing null safety as its being a huge pain when it comes to referencing
 // the fish generations in generationTracker().
